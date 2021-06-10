@@ -1,4 +1,4 @@
-django==1.11.18
+django==2.2.24
 django-mysql
 Pillow
 requests
